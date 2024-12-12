@@ -8,6 +8,9 @@ TagManager:
   - CinemachineTarget
   - ScreenCamera
   - cockpit_capitalLaser
+  - Wall
+  - Cube
+  - Ball
   layers:
   - Default
   - TransparentFX
@@ -24,7 +27,7 @@ TagManager:
   - MainCameraOnly
   - Oasis_TerrainBake
   - Ground
-  - 
+  - Pit
   - 
   - 
   - 
